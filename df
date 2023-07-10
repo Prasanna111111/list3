@@ -13,8 +13,8 @@
         <li>Fruits
 
             <ol type="i">
-                <li>Apple</li>
-                <li>Banana</li>
+                <li>grapes</li>
+                <li>papaya</li>
                 <li>Orange</li>
             </ol>
         </li>
@@ -22,27 +22,27 @@
         <li>Vegetables
 
             <ol type="i">
-                <li>Carrot</li>
-                <li>potato</li>
+                <li>brinjal</li>
                 <li>tomato</li>
+                <li>potato</li>
             </ol>
         </li>
 
         <li>colors
 
             <ol type="i">
-                <li>blue</li>
-                <li>black</li>
-                <li>red</li>
+                <li>rose</li>
+                <li>white</li>
+                <li>green</li>
             </ol>
         </li>
 
         <li>vehicles
 
             <ol type="i">
-                <li>bike</li>
+                <li> sportd bike</li>
                 <li>car</li>
-                <li>aeroplane</li>
+                <li>helicopter</li>
             </ol>
         </li>
 
@@ -50,8 +50,8 @@
 
             <ol type="i">
                 <li>shirt</li>
-                <li>pant</li>
-                <li>t shirt</li>
+                <li>cotton dress</li>
+                <li>jeans</li>
             </ol>
         </li>
 
